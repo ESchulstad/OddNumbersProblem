@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersProblem\OddNumbersProblem\bin\Debug\OddNumbersProblem.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersProblem\OddNumbersProblem\bin\Debug\OddNumbersProblem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersProblem\OddNumbersProblem\bin\Debug\OddNumbersProblem.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersProblem\OddNumbersProblem\obj\Debug\OddNumbersProblem.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersProblem\OddNumbersProblem\obj\Debug\OddNumbersProblem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumbersProblem\OddNumbersProblem\obj\Debug\OddNumbersProblem.pdb
